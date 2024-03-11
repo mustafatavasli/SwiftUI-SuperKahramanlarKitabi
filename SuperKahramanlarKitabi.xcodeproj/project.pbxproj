@@ -11,6 +11,7 @@
 		D6CA1DC42B9F535600FFD2AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CA1DC32B9F535600FFD2AC /* ContentView.swift */; };
 		D6CA1DC62B9F535700FFD2AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6CA1DC52B9F535700FFD2AC /* Assets.xcassets */; };
 		D6CA1DC92B9F535700FFD2AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6CA1DC82B9F535700FFD2AC /* Preview Assets.xcassets */; };
+		D6CA1DD02B9F53EC00FFD2AC /* SuperKahramanModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CA1DCF2B9F53EC00FFD2AC /* SuperKahramanModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D6CA1DC32B9F535600FFD2AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D6CA1DC52B9F535700FFD2AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6CA1DC82B9F535700FFD2AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D6CA1DCF2B9F53EC00FFD2AC /* SuperKahramanModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperKahramanModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D6CA1DC12B9F535600FFD2AC /* SuperKahramanlarKitabiApp.swift */,
 				D6CA1DC32B9F535600FFD2AC /* ContentView.swift */,
+				D6CA1DCF2B9F53EC00FFD2AC /* SuperKahramanModel.swift */,
 				D6CA1DC52B9F535700FFD2AC /* Assets.xcassets */,
 				D6CA1DC72B9F535700FFD2AC /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				D6CA1DC42B9F535600FFD2AC /* ContentView.swift in Sources */,
 				D6CA1DC22B9F535600FFD2AC /* SuperKahramanlarKitabiApp.swift in Sources */,
+				D6CA1DD02B9F53EC00FFD2AC /* SuperKahramanModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

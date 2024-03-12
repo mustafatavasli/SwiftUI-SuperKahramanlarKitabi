@@ -11,7 +11,7 @@ import SwiftUI
 struct SuperKahramanlarKitabiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListeView()
         }
     }
 }

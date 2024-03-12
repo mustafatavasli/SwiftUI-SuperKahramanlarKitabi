@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D69E6A362BA09DCA006F1A9F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69E6A352BA09DCA006F1A9F /* MapView.swift */; };
 		D6CA1DC22B9F535600FFD2AC /* SuperKahramanlarKitabiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CA1DC12B9F535600FFD2AC /* SuperKahramanlarKitabiApp.swift */; };
 		D6CA1DC42B9F535600FFD2AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6CA1DC32B9F535600FFD2AC /* ContentView.swift */; };
 		D6CA1DC62B9F535700FFD2AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6CA1DC52B9F535700FFD2AC /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D69E6A352BA09DCA006F1A9F /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		D6CA1DBE2B9F535600FFD2AC /* SuperKahramanlarKitabi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperKahramanlarKitabi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6CA1DC12B9F535600FFD2AC /* SuperKahramanlarKitabiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperKahramanlarKitabiApp.swift; sourceTree = "<group>"; };
 		D6CA1DC32B9F535600FFD2AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				D6CA1DCF2B9F53EC00FFD2AC /* SuperKahramanModel.swift */,
 				D6CA1DC52B9F535700FFD2AC /* Assets.xcassets */,
 				D6CA1DC72B9F535700FFD2AC /* Preview Content */,
+				D69E6A352BA09DCA006F1A9F /* MapView.swift */,
 			);
 			path = SuperKahramanlarKitabi;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6CA1DC42B9F535600FFD2AC /* ContentView.swift in Sources */,
+				D69E6A362BA09DCA006F1A9F /* MapView.swift in Sources */,
 				D6CA1DC22B9F535600FFD2AC /* SuperKahramanlarKitabiApp.swift in Sources */,
 				D6CA1DD02B9F53EC00FFD2AC /* SuperKahramanModel.swift in Sources */,
 			);
